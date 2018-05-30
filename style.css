@@ -1,0 +1,33 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background: #eee;
+  color: #555;
+  font-family: sans-serif;
+}
+h1 {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  text-align: center;
+}
+textarea {
+  box-sizing: border-box;
+  width: 50vmin;
+  height: 70vmin;
+  min-width: 280px;
+  min-height: 300px;
+  padding: 20px;
+  -webkit-appearance: none;
+  background: -webkit-gradient(linear, 0 0, 0 100%, from(#d9eaf3), color-stop(4%, #fff)) 0 18px / 100% 32px;
+  color: #555;
+  border: 0;
+  border-radius: 20px;
+  outline: 0;
+  box-shadow: 3px 3px 3px rgba(0,0,0,.2), -3px -3px 3px rgba(0,0,0,.2), -3px 3px 3px rgba(0,0,0,.2), 3px -3px 3px rgba(0,0,0,.2);
+  font: 20px/32px sans-serif;
+}
