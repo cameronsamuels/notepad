@@ -1,2 +1,2 @@
-# notepad
-JavaScript plain-text notepad
+**Notepad**
+<br>JavaScript plain-text notepad
